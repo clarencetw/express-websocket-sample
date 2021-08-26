@@ -5,10 +5,10 @@
 此專案提供 API 預設路由範例與 WebSocket 預設路由範例，可用於系統系統環境測試與 MySQL 資料庫連線測試
 
 ## 資料庫連線環境變數
-- HOST
-- USER
-- PASSWORD
-- DATABASE
+- DB_HOST
+- DB_USERNAME
+- DB_PASSWORD
+- DB_DATABASE
 
 ## 範例頁面
 - `/` - 後端渲染測試頁面
